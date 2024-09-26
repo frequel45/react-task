@@ -1,0 +1,9 @@
+{
+  "name": "mock-api-backend",
+  "version": "1.0.0",
+  "main": "mockAPI.js",
+  "scripts": {
+    "start": "node mockAPI.js"
+  },
+  "dependencies": {}
+}
